@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "超市收銀系統/1.0.0": {
+        "runtime": {
+          "超市收銀系統.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "超市收銀系統/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

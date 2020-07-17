@@ -1,0 +1,13 @@
+C:\Users\k2lairrol\Downloads\FirstCsharp\FileLesson\bin\Debug\netcoreapp3.1\FileLesson.exe
+C:\Users\k2lairrol\Downloads\FirstCsharp\FileLesson\bin\Debug\netcoreapp3.1\FileLesson.deps.json
+C:\Users\k2lairrol\Downloads\FirstCsharp\FileLesson\bin\Debug\netcoreapp3.1\FileLesson.runtimeconfig.json
+C:\Users\k2lairrol\Downloads\FirstCsharp\FileLesson\bin\Debug\netcoreapp3.1\FileLesson.runtimeconfig.dev.json
+C:\Users\k2lairrol\Downloads\FirstCsharp\FileLesson\bin\Debug\netcoreapp3.1\FileLesson.dll
+C:\Users\k2lairrol\Downloads\FirstCsharp\FileLesson\bin\Debug\netcoreapp3.1\FileLesson.pdb
+C:\Users\k2lairrol\Downloads\FirstCsharp\FileLesson\obj\Debug\netcoreapp3.1\FileLesson.csprojAssemblyReference.cache
+C:\Users\k2lairrol\Downloads\FirstCsharp\FileLesson\obj\Debug\netcoreapp3.1\FileLesson.AssemblyInfoInputs.cache
+C:\Users\k2lairrol\Downloads\FirstCsharp\FileLesson\obj\Debug\netcoreapp3.1\FileLesson.AssemblyInfo.cs
+C:\Users\k2lairrol\Downloads\FirstCsharp\FileLesson\obj\Debug\netcoreapp3.1\FileLesson.csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\Downloads\FirstCsharp\FileLesson\obj\Debug\netcoreapp3.1\FileLesson.dll
+C:\Users\k2lairrol\Downloads\FirstCsharp\FileLesson\obj\Debug\netcoreapp3.1\FileLesson.pdb
+C:\Users\k2lairrol\Downloads\FirstCsharp\FileLesson\obj\Debug\netcoreapp3.1\FileLesson.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\user\Downloads\FirstCsharp20200716\值類型和引用類型的傳遞\bin\Debug\netcoreapp3.1\值類型和引用類型的傳遞.exe
+C:\Users\user\Downloads\FirstCsharp20200716\值類型和引用類型的傳遞\bin\Debug\netcoreapp3.1\值類型和引用類型的傳遞.deps.json
+C:\Users\user\Downloads\FirstCsharp20200716\值類型和引用類型的傳遞\bin\Debug\netcoreapp3.1\值類型和引用類型的傳遞.runtimeconfig.json
+C:\Users\user\Downloads\FirstCsharp20200716\值類型和引用類型的傳遞\bin\Debug\netcoreapp3.1\值類型和引用類型的傳遞.runtimeconfig.dev.json
+C:\Users\user\Downloads\FirstCsharp20200716\值類型和引用類型的傳遞\bin\Debug\netcoreapp3.1\值類型和引用類型的傳遞.dll
+C:\Users\user\Downloads\FirstCsharp20200716\值類型和引用類型的傳遞\bin\Debug\netcoreapp3.1\值類型和引用類型的傳遞.pdb
+C:\Users\user\Downloads\FirstCsharp20200716\值類型和引用類型的傳遞\obj\Debug\netcoreapp3.1\值類型和引用類型的傳遞.csprojAssemblyReference.cache
+C:\Users\user\Downloads\FirstCsharp20200716\值類型和引用類型的傳遞\obj\Debug\netcoreapp3.1\值類型和引用類型的傳遞.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\FirstCsharp20200716\值類型和引用類型的傳遞\obj\Debug\netcoreapp3.1\值類型和引用類型的傳遞.AssemblyInfo.cs
+C:\Users\user\Downloads\FirstCsharp20200716\值類型和引用類型的傳遞\obj\Debug\netcoreapp3.1\值類型和引用類型的傳遞.dll
+C:\Users\user\Downloads\FirstCsharp20200716\值類型和引用類型的傳遞\obj\Debug\netcoreapp3.1\值類型和引用類型的傳遞.pdb

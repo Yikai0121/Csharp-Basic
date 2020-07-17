@@ -1,0 +1,11 @@
+C:\Users\user\Downloads\FirstCsharp20200715\封裝與拆裝\bin\Debug\netcoreapp3.1\Box.exe
+C:\Users\user\Downloads\FirstCsharp20200715\封裝與拆裝\bin\Debug\netcoreapp3.1\Box.deps.json
+C:\Users\user\Downloads\FirstCsharp20200715\封裝與拆裝\bin\Debug\netcoreapp3.1\Box.runtimeconfig.json
+C:\Users\user\Downloads\FirstCsharp20200715\封裝與拆裝\bin\Debug\netcoreapp3.1\Box.runtimeconfig.dev.json
+C:\Users\user\Downloads\FirstCsharp20200715\封裝與拆裝\bin\Debug\netcoreapp3.1\Box.dll
+C:\Users\user\Downloads\FirstCsharp20200715\封裝與拆裝\bin\Debug\netcoreapp3.1\Box.pdb
+C:\Users\user\Downloads\FirstCsharp20200715\封裝與拆裝\obj\Debug\netcoreapp3.1\Box.csprojAssemblyReference.cache
+C:\Users\user\Downloads\FirstCsharp20200715\封裝與拆裝\obj\Debug\netcoreapp3.1\Box.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\FirstCsharp20200715\封裝與拆裝\obj\Debug\netcoreapp3.1\Box.AssemblyInfo.cs
+C:\Users\user\Downloads\FirstCsharp20200715\封裝與拆裝\obj\Debug\netcoreapp3.1\Box.dll
+C:\Users\user\Downloads\FirstCsharp20200715\封裝與拆裝\obj\Debug\netcoreapp3.1\Box.pdb

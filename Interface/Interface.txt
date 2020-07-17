@@ -1,0 +1,24 @@
+Interface:是一種規範
+只要一個類繼承一個Interface，這個類就必須實現Interface中所有成元
+
+[public] interface i...le
+為了多態，Interface不能被實例化
+也就是說Interface不能被new(不能創建對象)
+
+interface 成員不允許添加訪問修飾符，默認public
+
+方法中不允許具有方法體的函數(不能有任何實現，光說不做，只是定義一組未實現成員)
+
+Interface只能有方法、屬性、索引器、不能有欄位(字段)和構造函數
+Interface與Interface之間可以繼承，並可以多繼承
+Interface並不能去繼承一個類，而類可以繼承Interface(Interface只能繼承Interface，而類可以繼承Interface也可以繼承類)
+實現Interface的子類必須實現Interface的全部成員
+
+一個類可以同時繼承一個類並實現多個Interface，如果一個子類同時繼承父類A，並實現InterfaceA，那麼語法必須寫在IA前面
+class myclass:A,IA(){},因為類是單繼承的
+
+顯示Interface的目的，解決方法的重名問題
+什麼時候顯示的去實現Interface
+當繼承的Interface和參數一模一樣的時候，要是用顯示的實現Interface
+
+當一個抽象類實現Interface時候，需要子類去實現Interface

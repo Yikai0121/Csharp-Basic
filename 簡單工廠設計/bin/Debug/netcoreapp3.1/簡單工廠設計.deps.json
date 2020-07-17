@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "簡單工廠設計/1.0.0": {
+        "runtime": {
+          "簡單工廠設計.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "簡單工廠設計/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

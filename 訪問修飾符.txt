@@ -1,0 +1,11 @@
+訪問修飾符:
+1.public :公開的公共的
+2.private : 私有的 只能在該類訪問
+3.protected : 受保護的 只能在當前類的內部以及子類中訪問
+4.internal: 只能在當前項目中訪問，在同一個項目中,nternal、public 權限一樣
+5.protected intrenal: protected + intrenal
+
+
+1).能夠修飾類的訪問修飾符只有兩個:public、 internal
+2).可訪問性不一致
+子類的訪問權限不能高於父類的訪問權限，會暴露父類的成員

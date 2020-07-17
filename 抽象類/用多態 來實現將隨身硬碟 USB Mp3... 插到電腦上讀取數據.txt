@@ -1,0 +1,25 @@
+
+可移動儲存設備:
+Read();
+Write();
+
+隨身碟:
+Read();
+Write();
+
+Mp3:
+Read();
+Write();
+PlayMusic();
+
+CD:
+Read();
+Write();
+
+===========================
+
+電腦:
+
+CpuRead(); 調用上面方法的Read();
+
+CpuWrite();調用上面方法的Write();

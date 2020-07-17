@@ -1,0 +1,13 @@
+C:\Users\k2lairrol\Downloads\FirstCsharp20200715V2\多態\bin\Debug\netcoreapp3.1\多態.exe
+C:\Users\k2lairrol\Downloads\FirstCsharp20200715V2\多態\bin\Debug\netcoreapp3.1\多態.deps.json
+C:\Users\k2lairrol\Downloads\FirstCsharp20200715V2\多態\bin\Debug\netcoreapp3.1\多態.runtimeconfig.json
+C:\Users\k2lairrol\Downloads\FirstCsharp20200715V2\多態\bin\Debug\netcoreapp3.1\多態.runtimeconfig.dev.json
+C:\Users\k2lairrol\Downloads\FirstCsharp20200715V2\多態\bin\Debug\netcoreapp3.1\多態.dll
+C:\Users\k2lairrol\Downloads\FirstCsharp20200715V2\多態\bin\Debug\netcoreapp3.1\多態.pdb
+C:\Users\k2lairrol\Downloads\FirstCsharp20200715V2\多態\obj\Debug\netcoreapp3.1\多態.csprojAssemblyReference.cache
+C:\Users\k2lairrol\Downloads\FirstCsharp20200715V2\多態\obj\Debug\netcoreapp3.1\多態.AssemblyInfoInputs.cache
+C:\Users\k2lairrol\Downloads\FirstCsharp20200715V2\多態\obj\Debug\netcoreapp3.1\多態.AssemblyInfo.cs
+C:\Users\k2lairrol\Downloads\FirstCsharp20200715V2\多態\obj\Debug\netcoreapp3.1\多態.csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\Downloads\FirstCsharp20200715V2\多態\obj\Debug\netcoreapp3.1\多態.dll
+C:\Users\k2lairrol\Downloads\FirstCsharp20200715V2\多態\obj\Debug\netcoreapp3.1\多態.pdb
+C:\Users\k2lairrol\Downloads\FirstCsharp20200715V2\多態\obj\Debug\netcoreapp3.1\多態.genruntimeconfig.cache

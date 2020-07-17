@@ -1,0 +1,13 @@
+C:\Users\k2lairrol\Downloads\FirstCsharp20200715V2\抽象類\bin\Debug\netcoreapp3.1\抽象類.exe
+C:\Users\k2lairrol\Downloads\FirstCsharp20200715V2\抽象類\bin\Debug\netcoreapp3.1\抽象類.deps.json
+C:\Users\k2lairrol\Downloads\FirstCsharp20200715V2\抽象類\bin\Debug\netcoreapp3.1\抽象類.runtimeconfig.json
+C:\Users\k2lairrol\Downloads\FirstCsharp20200715V2\抽象類\bin\Debug\netcoreapp3.1\抽象類.runtimeconfig.dev.json
+C:\Users\k2lairrol\Downloads\FirstCsharp20200715V2\抽象類\bin\Debug\netcoreapp3.1\抽象類.dll
+C:\Users\k2lairrol\Downloads\FirstCsharp20200715V2\抽象類\bin\Debug\netcoreapp3.1\抽象類.pdb
+C:\Users\k2lairrol\Downloads\FirstCsharp20200715V2\抽象類\obj\Debug\netcoreapp3.1\抽象類.csprojAssemblyReference.cache
+C:\Users\k2lairrol\Downloads\FirstCsharp20200715V2\抽象類\obj\Debug\netcoreapp3.1\抽象類.AssemblyInfoInputs.cache
+C:\Users\k2lairrol\Downloads\FirstCsharp20200715V2\抽象類\obj\Debug\netcoreapp3.1\抽象類.AssemblyInfo.cs
+C:\Users\k2lairrol\Downloads\FirstCsharp20200715V2\抽象類\obj\Debug\netcoreapp3.1\抽象類.csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\Downloads\FirstCsharp20200715V2\抽象類\obj\Debug\netcoreapp3.1\抽象類.dll
+C:\Users\k2lairrol\Downloads\FirstCsharp20200715V2\抽象類\obj\Debug\netcoreapp3.1\抽象類.pdb
+C:\Users\k2lairrol\Downloads\FirstCsharp20200715V2\抽象類\obj\Debug\netcoreapp3.1\抽象類.genruntimeconfig.cache

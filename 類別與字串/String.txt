@@ -1,0 +1,37 @@
+字串
+1.字串的不可變性:當你給一個字串賦予新值，舊資料並沒有銷毀，新資料則是新開一塊空間儲存新資料
+
+2.可以將字串看做是Char類型的一個只唯讀類型
+Tocharry();將字串轉為char數組
+new string(char[] chs) 將char 數組轉為字串
+string詳解
+            string s = "asdsdasd";
+            s[0] = "b"; //string 唯讀不可更改
+            將字串提出再賦予新值
+            char[] chs = s.ToCharArray();
+            chs[0]='B';
+            s = new string(chs);
+
+
+字串提供各種方法:
+1.Lenght():獲得當前字串中字個數
+2.ToUpper():轉變為大寫
+3.ToLower():轉變為小寫
+4.Equals(): s1.Equals(s2,StringComparison.OrdinalIgnoreCase):比較兩個字串的值
+5.spilt():分割字串，返回字串類型的數組
+6.Substring():擷取字串，擷取時包括擷取位置
+7.Indexof():判斷某個字串再字串第一次出現的位置，如果沒有返回-1
+8.LastIndexof():判斷某個字串再字串最後出現的位置，如果沒有返回-1
+9.StartWith():判斷以...開始
+10.EndWith():判斷以...結束
+11.Replace():將字串替換成另一個新字串
+12.Contain():判斷某個字串是否包含指定字串
+13.Trim():去掉字串前後空格
+14.TrimEnd():去掉字串結尾的空格
+15.TrimStart():去掉字串中前面的空格
+16.string.IsNullOrEmpty():判斷一個字串使否為空或null
+17.string.join():將陣列按照指定的字串連結，返回一個字串
+
+
+
+

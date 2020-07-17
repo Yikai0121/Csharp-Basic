@@ -1,0 +1,11 @@
+C:\Users\user\Downloads\FirstCsharp\類別與字串\綜合練習\bin\Debug\netcoreapp3.1\StringPracticeFinal.exe
+C:\Users\user\Downloads\FirstCsharp\類別與字串\綜合練習\bin\Debug\netcoreapp3.1\StringPracticeFinal.deps.json
+C:\Users\user\Downloads\FirstCsharp\類別與字串\綜合練習\bin\Debug\netcoreapp3.1\StringPracticeFinal.runtimeconfig.json
+C:\Users\user\Downloads\FirstCsharp\類別與字串\綜合練習\bin\Debug\netcoreapp3.1\StringPracticeFinal.runtimeconfig.dev.json
+C:\Users\user\Downloads\FirstCsharp\類別與字串\綜合練習\bin\Debug\netcoreapp3.1\StringPracticeFinal.dll
+C:\Users\user\Downloads\FirstCsharp\類別與字串\綜合練習\bin\Debug\netcoreapp3.1\StringPracticeFinal.pdb
+C:\Users\user\Downloads\FirstCsharp\類別與字串\綜合練習\obj\Debug\netcoreapp3.1\StringPracticeFinal.csprojAssemblyReference.cache
+C:\Users\user\Downloads\FirstCsharp\類別與字串\綜合練習\obj\Debug\netcoreapp3.1\StringPracticeFinal.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\FirstCsharp\類別與字串\綜合練習\obj\Debug\netcoreapp3.1\StringPracticeFinal.AssemblyInfo.cs
+C:\Users\user\Downloads\FirstCsharp\類別與字串\綜合練習\obj\Debug\netcoreapp3.1\StringPracticeFinal.dll
+C:\Users\user\Downloads\FirstCsharp\類別與字串\綜合練習\obj\Debug\netcoreapp3.1\StringPracticeFinal.pdb

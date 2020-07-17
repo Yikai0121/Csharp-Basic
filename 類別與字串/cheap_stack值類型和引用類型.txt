@@ -1,0 +1,14 @@
+值類型(Value Types)和引用類型(Reference Types)
+
+區別:
+1.值類型和引用類型內存上儲存地方不同
+2.再傳遞值類型和傳遞引用類型的時候，傳遞方式不一樣
+值類型稱為值傳遞，引用類型稱為引用傳遞
+
+值類型:int double bool char decimal struct enum
+引用類型: string、自定義類別、數組
+
+儲存:
+(堆疊(Heap)與堆積(Stack))
+值類型的值儲存在棧(stack)當中
+引用類型儲存再堆(heap)當中

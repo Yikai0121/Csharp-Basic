@@ -1,0 +1,11 @@
+C:\Users\user\Downloads\FirstCsharp20200715\字典-Dictionary\bin\Debug\netcoreapp3.1\DictionaryLesson.exe
+C:\Users\user\Downloads\FirstCsharp20200715\字典-Dictionary\bin\Debug\netcoreapp3.1\DictionaryLesson.deps.json
+C:\Users\user\Downloads\FirstCsharp20200715\字典-Dictionary\bin\Debug\netcoreapp3.1\DictionaryLesson.runtimeconfig.json
+C:\Users\user\Downloads\FirstCsharp20200715\字典-Dictionary\bin\Debug\netcoreapp3.1\DictionaryLesson.runtimeconfig.dev.json
+C:\Users\user\Downloads\FirstCsharp20200715\字典-Dictionary\bin\Debug\netcoreapp3.1\DictionaryLesson.dll
+C:\Users\user\Downloads\FirstCsharp20200715\字典-Dictionary\bin\Debug\netcoreapp3.1\DictionaryLesson.pdb
+C:\Users\user\Downloads\FirstCsharp20200715\字典-Dictionary\obj\Debug\netcoreapp3.1\DictionaryLesson.csprojAssemblyReference.cache
+C:\Users\user\Downloads\FirstCsharp20200715\字典-Dictionary\obj\Debug\netcoreapp3.1\DictionaryLesson.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\FirstCsharp20200715\字典-Dictionary\obj\Debug\netcoreapp3.1\DictionaryLesson.AssemblyInfo.cs
+C:\Users\user\Downloads\FirstCsharp20200715\字典-Dictionary\obj\Debug\netcoreapp3.1\DictionaryLesson.dll
+C:\Users\user\Downloads\FirstCsharp20200715\字典-Dictionary\obj\Debug\netcoreapp3.1\DictionaryLesson.pdb

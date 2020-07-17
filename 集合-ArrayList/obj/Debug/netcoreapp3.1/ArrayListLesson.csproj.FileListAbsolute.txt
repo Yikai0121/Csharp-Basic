@@ -1,0 +1,13 @@
+C:\Users\k2lairrol\Downloads\FirstCsharp\集合-ArrayList\bin\Debug\netcoreapp3.1\ArrayListLesson.exe
+C:\Users\k2lairrol\Downloads\FirstCsharp\集合-ArrayList\bin\Debug\netcoreapp3.1\ArrayListLesson.deps.json
+C:\Users\k2lairrol\Downloads\FirstCsharp\集合-ArrayList\bin\Debug\netcoreapp3.1\ArrayListLesson.runtimeconfig.json
+C:\Users\k2lairrol\Downloads\FirstCsharp\集合-ArrayList\bin\Debug\netcoreapp3.1\ArrayListLesson.runtimeconfig.dev.json
+C:\Users\k2lairrol\Downloads\FirstCsharp\集合-ArrayList\bin\Debug\netcoreapp3.1\ArrayListLesson.dll
+C:\Users\k2lairrol\Downloads\FirstCsharp\集合-ArrayList\bin\Debug\netcoreapp3.1\ArrayListLesson.pdb
+C:\Users\k2lairrol\Downloads\FirstCsharp\集合-ArrayList\obj\Debug\netcoreapp3.1\ArrayListLesson.csprojAssemblyReference.cache
+C:\Users\k2lairrol\Downloads\FirstCsharp\集合-ArrayList\obj\Debug\netcoreapp3.1\ArrayListLesson.AssemblyInfoInputs.cache
+C:\Users\k2lairrol\Downloads\FirstCsharp\集合-ArrayList\obj\Debug\netcoreapp3.1\ArrayListLesson.AssemblyInfo.cs
+C:\Users\k2lairrol\Downloads\FirstCsharp\集合-ArrayList\obj\Debug\netcoreapp3.1\ArrayListLesson.csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\Downloads\FirstCsharp\集合-ArrayList\obj\Debug\netcoreapp3.1\ArrayListLesson.dll
+C:\Users\k2lairrol\Downloads\FirstCsharp\集合-ArrayList\obj\Debug\netcoreapp3.1\ArrayListLesson.pdb
+C:\Users\k2lairrol\Downloads\FirstCsharp\集合-ArrayList\obj\Debug\netcoreapp3.1\ArrayListLesson.genruntimeconfig.cache

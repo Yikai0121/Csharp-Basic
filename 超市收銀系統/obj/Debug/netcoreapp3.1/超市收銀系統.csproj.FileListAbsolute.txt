@@ -1,0 +1,13 @@
+C:\Users\k2lairrol\Downloads\FirstCsharp20200716V2\超市收銀系統\obj\Debug\netcoreapp3.1\超市收銀系統.csprojAssemblyReference.cache
+C:\Users\k2lairrol\Downloads\FirstCsharp20200716V2\超市收銀系統\obj\Debug\netcoreapp3.1\超市收銀系統.AssemblyInfoInputs.cache
+C:\Users\k2lairrol\Downloads\FirstCsharp20200716V2\超市收銀系統\obj\Debug\netcoreapp3.1\超市收銀系統.AssemblyInfo.cs
+C:\Users\k2lairrol\Downloads\FirstCsharp20200716V2\超市收銀系統\obj\Debug\netcoreapp3.1\超市收銀系統.csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\Downloads\FirstCsharp20200716V2\超市收銀系統\bin\Debug\netcoreapp3.1\超市收銀系統.exe
+C:\Users\k2lairrol\Downloads\FirstCsharp20200716V2\超市收銀系統\bin\Debug\netcoreapp3.1\超市收銀系統.deps.json
+C:\Users\k2lairrol\Downloads\FirstCsharp20200716V2\超市收銀系統\bin\Debug\netcoreapp3.1\超市收銀系統.runtimeconfig.json
+C:\Users\k2lairrol\Downloads\FirstCsharp20200716V2\超市收銀系統\bin\Debug\netcoreapp3.1\超市收銀系統.runtimeconfig.dev.json
+C:\Users\k2lairrol\Downloads\FirstCsharp20200716V2\超市收銀系統\bin\Debug\netcoreapp3.1\超市收銀系統.dll
+C:\Users\k2lairrol\Downloads\FirstCsharp20200716V2\超市收銀系統\bin\Debug\netcoreapp3.1\超市收銀系統.pdb
+C:\Users\k2lairrol\Downloads\FirstCsharp20200716V2\超市收銀系統\obj\Debug\netcoreapp3.1\超市收銀系統.dll
+C:\Users\k2lairrol\Downloads\FirstCsharp20200716V2\超市收銀系統\obj\Debug\netcoreapp3.1\超市收銀系統.pdb
+C:\Users\k2lairrol\Downloads\FirstCsharp20200716V2\超市收銀系統\obj\Debug\netcoreapp3.1\超市收銀系統.genruntimeconfig.cache

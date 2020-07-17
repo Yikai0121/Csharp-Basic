@@ -1,0 +1,13 @@
+C:\Users\k2lairrol\Downloads\FirstCsharp\PathLesson\obj\Debug\netcoreapp3.1\PathLesson.csprojAssemblyReference.cache
+C:\Users\k2lairrol\Downloads\FirstCsharp\PathLesson\obj\Debug\netcoreapp3.1\PathLesson.AssemblyInfoInputs.cache
+C:\Users\k2lairrol\Downloads\FirstCsharp\PathLesson\obj\Debug\netcoreapp3.1\PathLesson.AssemblyInfo.cs
+C:\Users\k2lairrol\Downloads\FirstCsharp\PathLesson\obj\Debug\netcoreapp3.1\PathLesson.csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\Downloads\FirstCsharp\PathLesson\bin\Debug\netcoreapp3.1\PathLesson.exe
+C:\Users\k2lairrol\Downloads\FirstCsharp\PathLesson\bin\Debug\netcoreapp3.1\PathLesson.deps.json
+C:\Users\k2lairrol\Downloads\FirstCsharp\PathLesson\bin\Debug\netcoreapp3.1\PathLesson.runtimeconfig.json
+C:\Users\k2lairrol\Downloads\FirstCsharp\PathLesson\bin\Debug\netcoreapp3.1\PathLesson.runtimeconfig.dev.json
+C:\Users\k2lairrol\Downloads\FirstCsharp\PathLesson\bin\Debug\netcoreapp3.1\PathLesson.dll
+C:\Users\k2lairrol\Downloads\FirstCsharp\PathLesson\bin\Debug\netcoreapp3.1\PathLesson.pdb
+C:\Users\k2lairrol\Downloads\FirstCsharp\PathLesson\obj\Debug\netcoreapp3.1\PathLesson.dll
+C:\Users\k2lairrol\Downloads\FirstCsharp\PathLesson\obj\Debug\netcoreapp3.1\PathLesson.pdb
+C:\Users\k2lairrol\Downloads\FirstCsharp\PathLesson\obj\Debug\netcoreapp3.1\PathLesson.genruntimeconfig.cache
