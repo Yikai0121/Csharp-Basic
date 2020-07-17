@@ -4,7 +4,7 @@ namespace 簡單工廠設計
 {
     class Program
     {
-        //克
+
         static void Main(string[] args)
         {
             Console.WriteLine("請輸入你要的品牌");
@@ -12,10 +12,11 @@ namespace 簡單工廠設計
             NoteBook nb = GetBrandclass.GetBrand(Brand);
             nb.GetNotebook();
         }
-        
+
     }
-public class GetBrandclass{
-    public static NoteBook GetBrand(string brand)
+    public class GetBrandclass
+    {
+        public static NoteBook GetBrand(string brand)
         {
             NoteBook nb = null;
             switch (brand)
@@ -35,7 +36,7 @@ public class GetBrandclass{
             }
             return nb;
         }
-}
+    }
     public abstract class NoteBook
     {
         public abstract void GetNotebook();
