@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 using System.IO;
 
 namespace Practice
@@ -7,8 +8,13 @@ namespace Practice
     {
         static void Main(string[] args)
         {
-            string[] path = Directory.GetFiles(@"C:\Users\k2lairrol\Pictures\Pictures");
-            System.Console.WriteLine(path.Length);
+            // string[] path = Directory.GetFiles(@"C:\Users\k2lairrol\Pictures\Pictures");
+            // System.Console.WriteLine(path.Length);
+
+            Process p = new Process();
+            p.StartInfo.FileName = @"C:\Users\user\Desktop\1.txt";
+            p.Start();
+
 
             // //把{"諸葛亮","鳥叔","卡卡西","卡哇伊"}變成 諸葛亮|鳥叔|卡卡西|卡哇伊，再把|切割掉
             // string[] str1 = { "諸葛亮", "鳥叔", "卡卡西", "卡哇伊" };

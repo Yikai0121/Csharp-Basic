@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\GitHub\\Csharp-Basic\\Practice0716\\Practice.csproj": {}
+    "C:\\Users\\user\\Documents\\GitHub\\Csharp-Basic\\ProcessLesson\\ProcessLesson.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\GitHub\\Csharp-Basic\\Practice0716\\Practice.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\Csharp-Basic\\ProcessLesson\\ProcessLesson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\Csharp-Basic\\Practice0716\\Practice.csproj",
-        "projectName": "Practice",
-        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Csharp-Basic\\Practice0716\\Practice.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\Csharp-Basic\\ProcessLesson\\ProcessLesson.csproj",
+        "projectName": "ProcessLesson",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Csharp-Basic\\ProcessLesson\\ProcessLesson.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\Csharp-Basic\\Practice0716\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\Csharp-Basic\\ProcessLesson\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

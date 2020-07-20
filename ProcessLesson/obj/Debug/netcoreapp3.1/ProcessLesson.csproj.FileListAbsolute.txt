@@ -1,0 +1,11 @@
+C:\Users\user\Documents\GitHub\Csharp-Basic\ProcessLesson\obj\Debug\netcoreapp3.1\ProcessLesson.csprojAssemblyReference.cache
+C:\Users\user\Documents\GitHub\Csharp-Basic\ProcessLesson\obj\Debug\netcoreapp3.1\ProcessLesson.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\Csharp-Basic\ProcessLesson\obj\Debug\netcoreapp3.1\ProcessLesson.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\Csharp-Basic\ProcessLesson\bin\Debug\netcoreapp3.1\ProcessLesson.exe
+C:\Users\user\Documents\GitHub\Csharp-Basic\ProcessLesson\bin\Debug\netcoreapp3.1\ProcessLesson.deps.json
+C:\Users\user\Documents\GitHub\Csharp-Basic\ProcessLesson\bin\Debug\netcoreapp3.1\ProcessLesson.runtimeconfig.json
+C:\Users\user\Documents\GitHub\Csharp-Basic\ProcessLesson\bin\Debug\netcoreapp3.1\ProcessLesson.runtimeconfig.dev.json
+C:\Users\user\Documents\GitHub\Csharp-Basic\ProcessLesson\bin\Debug\netcoreapp3.1\ProcessLesson.dll
+C:\Users\user\Documents\GitHub\Csharp-Basic\ProcessLesson\bin\Debug\netcoreapp3.1\ProcessLesson.pdb
+C:\Users\user\Documents\GitHub\Csharp-Basic\ProcessLesson\obj\Debug\netcoreapp3.1\ProcessLesson.dll
+C:\Users\user\Documents\GitHub\Csharp-Basic\ProcessLesson\obj\Debug\netcoreapp3.1\ProcessLesson.pdb
