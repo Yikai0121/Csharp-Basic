@@ -11,3 +11,16 @@ C:\Users\k2lairrol\Downloads\Practice\bin\Debug\netcoreapp3.1\Practice.pdb
 C:\Users\k2lairrol\Downloads\Practice\obj\Debug\netcoreapp3.1\Practice.dll
 C:\Users\k2lairrol\Downloads\Practice\obj\Debug\netcoreapp3.1\Practice.pdb
 C:\Users\k2lairrol\Downloads\Practice\obj\Debug\netcoreapp3.1\Practice.genruntimeconfig.cache
+D:\Csharp-Basic\Practice0716\bin\Debug\netcoreapp3.1\Practice.exe
+D:\Csharp-Basic\Practice0716\bin\Debug\netcoreapp3.1\Practice.deps.json
+D:\Csharp-Basic\Practice0716\bin\Debug\netcoreapp3.1\Practice.runtimeconfig.json
+D:\Csharp-Basic\Practice0716\bin\Debug\netcoreapp3.1\Practice.runtimeconfig.dev.json
+D:\Csharp-Basic\Practice0716\bin\Debug\netcoreapp3.1\Practice.dll
+D:\Csharp-Basic\Practice0716\bin\Debug\netcoreapp3.1\Practice.pdb
+D:\Csharp-Basic\Practice0716\obj\Debug\netcoreapp3.1\Practice.csprojAssemblyReference.cache
+D:\Csharp-Basic\Practice0716\obj\Debug\netcoreapp3.1\Practice.AssemblyInfoInputs.cache
+D:\Csharp-Basic\Practice0716\obj\Debug\netcoreapp3.1\Practice.AssemblyInfo.cs
+D:\Csharp-Basic\Practice0716\obj\Debug\netcoreapp3.1\Practice.csproj.CoreCompileInputs.cache
+D:\Csharp-Basic\Practice0716\obj\Debug\netcoreapp3.1\Practice.dll
+D:\Csharp-Basic\Practice0716\obj\Debug\netcoreapp3.1\Practice.pdb
+D:\Csharp-Basic\Practice0716\obj\Debug\netcoreapp3.1\Practice.genruntimeconfig.cache

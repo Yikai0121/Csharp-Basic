@@ -1,0 +1,13 @@
+C:\DirectoryClass\bin\Debug\netcoreapp3.1\DirectoryClass.exe
+C:\DirectoryClass\bin\Debug\netcoreapp3.1\DirectoryClass.deps.json
+C:\DirectoryClass\bin\Debug\netcoreapp3.1\DirectoryClass.runtimeconfig.json
+C:\DirectoryClass\bin\Debug\netcoreapp3.1\DirectoryClass.runtimeconfig.dev.json
+C:\DirectoryClass\bin\Debug\netcoreapp3.1\DirectoryClass.dll
+C:\DirectoryClass\bin\Debug\netcoreapp3.1\DirectoryClass.pdb
+C:\DirectoryClass\obj\Debug\netcoreapp3.1\DirectoryClass.csprojAssemblyReference.cache
+C:\DirectoryClass\obj\Debug\netcoreapp3.1\DirectoryClass.AssemblyInfoInputs.cache
+C:\DirectoryClass\obj\Debug\netcoreapp3.1\DirectoryClass.AssemblyInfo.cs
+C:\DirectoryClass\obj\Debug\netcoreapp3.1\DirectoryClass.csproj.CoreCompileInputs.cache
+C:\DirectoryClass\obj\Debug\netcoreapp3.1\DirectoryClass.dll
+C:\DirectoryClass\obj\Debug\netcoreapp3.1\DirectoryClass.pdb
+C:\DirectoryClass\obj\Debug\netcoreapp3.1\DirectoryClass.genruntimeconfig.cache

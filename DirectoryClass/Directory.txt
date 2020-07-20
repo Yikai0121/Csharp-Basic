@@ -1,0 +1,6 @@
+CreateDirectory:創建資料夾
+Delete:刪除資料夾
+Move:剪下
+GetFiles:獲得指定文件下全部的文件路徑    ,"*.副檔名" 篩選需要的資料
+GetDirectories:獲得指定目錄下所有文件夾的全路徑
+Exists:判斷指定文件是否存在
