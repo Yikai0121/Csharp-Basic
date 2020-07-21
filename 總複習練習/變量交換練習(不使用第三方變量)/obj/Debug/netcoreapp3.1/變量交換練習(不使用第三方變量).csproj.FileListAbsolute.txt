@@ -1,0 +1,13 @@
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\變量交換練習(不使用第三方變量)\bin\Debug\netcoreapp3.1\變量交換練習(不使用第三方變量).exe
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\變量交換練習(不使用第三方變量)\bin\Debug\netcoreapp3.1\變量交換練習(不使用第三方變量).deps.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\變量交換練習(不使用第三方變量)\bin\Debug\netcoreapp3.1\變量交換練習(不使用第三方變量).runtimeconfig.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\變量交換練習(不使用第三方變量)\bin\Debug\netcoreapp3.1\變量交換練習(不使用第三方變量).runtimeconfig.dev.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\變量交換練習(不使用第三方變量)\bin\Debug\netcoreapp3.1\變量交換練習(不使用第三方變量).dll
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\變量交換練習(不使用第三方變量)\bin\Debug\netcoreapp3.1\變量交換練習(不使用第三方變量).pdb
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\變量交換練習(不使用第三方變量)\obj\Debug\netcoreapp3.1\變量交換練習(不使用第三方變量).csprojAssemblyReference.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\變量交換練習(不使用第三方變量)\obj\Debug\netcoreapp3.1\變量交換練習(不使用第三方變量).AssemblyInfoInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\變量交換練習(不使用第三方變量)\obj\Debug\netcoreapp3.1\變量交換練習(不使用第三方變量).AssemblyInfo.cs
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\變量交換練習(不使用第三方變量)\obj\Debug\netcoreapp3.1\變量交換練習(不使用第三方變量).csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\變量交換練習(不使用第三方變量)\obj\Debug\netcoreapp3.1\變量交換練習(不使用第三方變量).dll
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\變量交換練習(不使用第三方變量)\obj\Debug\netcoreapp3.1\變量交換練習(不使用第三方變量).pdb
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\變量交換練習(不使用第三方變量)\obj\Debug\netcoreapp3.1\變量交換練習(不使用第三方變量).genruntimeconfig.cache

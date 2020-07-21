@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "變量交換練習(不使用第三方變量)/1.0.0": {
+        "runtime": {
+          "變量交換練習(不使用第三方變量).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "變量交換練習(不使用第三方變量)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\計算任意數個數最大值\bin\Debug\netcoreapp3.1\計算任意數個數最大值.exe
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\計算任意數個數最大值\bin\Debug\netcoreapp3.1\計算任意數個數最大值.deps.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\計算任意數個數最大值\bin\Debug\netcoreapp3.1\計算任意數個數最大值.runtimeconfig.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\計算任意數個數最大值\bin\Debug\netcoreapp3.1\計算任意數個數最大值.runtimeconfig.dev.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\計算任意數個數最大值\bin\Debug\netcoreapp3.1\計算任意數個數最大值.dll
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\計算任意數個數最大值\bin\Debug\netcoreapp3.1\計算任意數個數最大值.pdb
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\計算任意數個數最大值\obj\Debug\netcoreapp3.1\計算任意數個數最大值.csprojAssemblyReference.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\計算任意數個數最大值\obj\Debug\netcoreapp3.1\計算任意數個數最大值.AssemblyInfoInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\計算任意數個數最大值\obj\Debug\netcoreapp3.1\計算任意數個數最大值.AssemblyInfo.cs
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\計算任意數個數最大值\obj\Debug\netcoreapp3.1\計算任意數個數最大值.csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\計算任意數個數最大值\obj\Debug\netcoreapp3.1\計算任意數個數最大值.dll
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\計算任意數個數最大值\obj\Debug\netcoreapp3.1\計算任意數個數最大值.pdb
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\計算任意數個數最大值\obj\Debug\netcoreapp3.1\計算任意數個數最大值.genruntimeconfig.cache

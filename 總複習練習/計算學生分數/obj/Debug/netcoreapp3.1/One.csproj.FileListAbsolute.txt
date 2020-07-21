@@ -1,0 +1,13 @@
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\One\bin\Debug\netcoreapp3.1\One.exe
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\One\bin\Debug\netcoreapp3.1\One.deps.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\One\bin\Debug\netcoreapp3.1\One.runtimeconfig.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\One\bin\Debug\netcoreapp3.1\One.runtimeconfig.dev.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\One\bin\Debug\netcoreapp3.1\One.dll
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\One\bin\Debug\netcoreapp3.1\One.pdb
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\One\obj\Debug\netcoreapp3.1\One.csprojAssemblyReference.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\One\obj\Debug\netcoreapp3.1\One.AssemblyInfoInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\One\obj\Debug\netcoreapp3.1\One.AssemblyInfo.cs
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\One\obj\Debug\netcoreapp3.1\One.csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\One\obj\Debug\netcoreapp3.1\One.dll
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\One\obj\Debug\netcoreapp3.1\One.pdb
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\One\obj\Debug\netcoreapp3.1\One.genruntimeconfig.cache
