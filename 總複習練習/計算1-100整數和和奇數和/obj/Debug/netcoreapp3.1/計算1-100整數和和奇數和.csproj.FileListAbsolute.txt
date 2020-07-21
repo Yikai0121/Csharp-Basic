@@ -1,0 +1,11 @@
+C:\Users\user\Documents\GitHub\Csharp-Basic\總複習練習\計算1-100整數和和奇數和\bin\Debug\netcoreapp3.1\計算1-100整數和和奇數和.exe
+C:\Users\user\Documents\GitHub\Csharp-Basic\總複習練習\計算1-100整數和和奇數和\bin\Debug\netcoreapp3.1\計算1-100整數和和奇數和.deps.json
+C:\Users\user\Documents\GitHub\Csharp-Basic\總複習練習\計算1-100整數和和奇數和\bin\Debug\netcoreapp3.1\計算1-100整數和和奇數和.runtimeconfig.json
+C:\Users\user\Documents\GitHub\Csharp-Basic\總複習練習\計算1-100整數和和奇數和\bin\Debug\netcoreapp3.1\計算1-100整數和和奇數和.runtimeconfig.dev.json
+C:\Users\user\Documents\GitHub\Csharp-Basic\總複習練習\計算1-100整數和和奇數和\bin\Debug\netcoreapp3.1\計算1-100整數和和奇數和.dll
+C:\Users\user\Documents\GitHub\Csharp-Basic\總複習練習\計算1-100整數和和奇數和\bin\Debug\netcoreapp3.1\計算1-100整數和和奇數和.pdb
+C:\Users\user\Documents\GitHub\Csharp-Basic\總複習練習\計算1-100整數和和奇數和\obj\Debug\netcoreapp3.1\計算1-100整數和和奇數和.csprojAssemblyReference.cache
+C:\Users\user\Documents\GitHub\Csharp-Basic\總複習練習\計算1-100整數和和奇數和\obj\Debug\netcoreapp3.1\計算1-100整數和和奇數和.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\Csharp-Basic\總複習練習\計算1-100整數和和奇數和\obj\Debug\netcoreapp3.1\計算1-100整數和和奇數和.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\Csharp-Basic\總複習練習\計算1-100整數和和奇數和\obj\Debug\netcoreapp3.1\計算1-100整數和和奇數和.dll
+C:\Users\user\Documents\GitHub\Csharp-Basic\總複習練習\計算1-100整數和和奇數和\obj\Debug\netcoreapp3.1\計算1-100整數和和奇數和.pdb

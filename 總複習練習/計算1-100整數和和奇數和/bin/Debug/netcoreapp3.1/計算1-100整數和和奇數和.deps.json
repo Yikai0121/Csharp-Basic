@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "計算1-100整數和和奇數和/1.0.0": {
+        "runtime": {
+          "計算1-100整數和和奇數和.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "計算1-100整數和和奇數和/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

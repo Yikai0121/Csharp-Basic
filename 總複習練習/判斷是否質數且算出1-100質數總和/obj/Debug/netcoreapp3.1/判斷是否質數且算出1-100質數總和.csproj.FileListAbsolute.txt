@@ -1,0 +1,11 @@
+C:\Users\user\Documents\GitHub\Csharp-Basic\總複習練習\判斷是否質數且算出1-100質數總和\bin\Debug\netcoreapp3.1\判斷是否質數且算出1-100質數總和.exe
+C:\Users\user\Documents\GitHub\Csharp-Basic\總複習練習\判斷是否質數且算出1-100質數總和\bin\Debug\netcoreapp3.1\判斷是否質數且算出1-100質數總和.deps.json
+C:\Users\user\Documents\GitHub\Csharp-Basic\總複習練習\判斷是否質數且算出1-100質數總和\bin\Debug\netcoreapp3.1\判斷是否質數且算出1-100質數總和.runtimeconfig.json
+C:\Users\user\Documents\GitHub\Csharp-Basic\總複習練習\判斷是否質數且算出1-100質數總和\bin\Debug\netcoreapp3.1\判斷是否質數且算出1-100質數總和.runtimeconfig.dev.json
+C:\Users\user\Documents\GitHub\Csharp-Basic\總複習練習\判斷是否質數且算出1-100質數總和\bin\Debug\netcoreapp3.1\判斷是否質數且算出1-100質數總和.dll
+C:\Users\user\Documents\GitHub\Csharp-Basic\總複習練習\判斷是否質數且算出1-100質數總和\bin\Debug\netcoreapp3.1\判斷是否質數且算出1-100質數總和.pdb
+C:\Users\user\Documents\GitHub\Csharp-Basic\總複習練習\判斷是否質數且算出1-100質數總和\obj\Debug\netcoreapp3.1\判斷是否質數且算出1-100質數總和.csprojAssemblyReference.cache
+C:\Users\user\Documents\GitHub\Csharp-Basic\總複習練習\判斷是否質數且算出1-100質數總和\obj\Debug\netcoreapp3.1\判斷是否質數且算出1-100質數總和.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\Csharp-Basic\總複習練習\判斷是否質數且算出1-100質數總和\obj\Debug\netcoreapp3.1\判斷是否質數且算出1-100質數總和.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\Csharp-Basic\總複習練習\判斷是否質數且算出1-100質數總和\obj\Debug\netcoreapp3.1\判斷是否質數且算出1-100質數總和.dll
+C:\Users\user\Documents\GitHub\Csharp-Basic\總複習練習\判斷是否質數且算出1-100質數總和\obj\Debug\netcoreapp3.1\判斷是否質數且算出1-100質數總和.pdb

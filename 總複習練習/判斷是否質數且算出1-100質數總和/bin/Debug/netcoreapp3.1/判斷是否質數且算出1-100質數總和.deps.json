@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "判斷是否質數且算出1-100質數總和/1.0.0": {
+        "runtime": {
+          "判斷是否質數且算出1-100質數總和.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "判斷是否質數且算出1-100質數總和/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
