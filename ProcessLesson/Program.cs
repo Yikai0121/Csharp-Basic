@@ -18,10 +18,14 @@ namespace ProcessLesson
             // Process.Start("notepad");
 
             // 通過一個進程打開指定文件
-            ProcessStartInfo psi = new ProcessStartInfo(@"C:\Users\user\Documents\GitHub\Csharp-Basic\ProcessLesson\123.txt");
-            Process p = new Process();
-            p.StartInfo = psi;
-            p.Start();
+            // Process p = new Process();
+            // p.StartInfo = new ProcessStartInfo(@"C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\ProcessLesson\123.txt") { UseShellExecute = true };
+            // p.Start();
+
+            Process.Start(new ProcessStartInfo(@"C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\ProcessLesson\123.txt")
+            {
+                UseShellExecute = true
+            });
 
 
         }
