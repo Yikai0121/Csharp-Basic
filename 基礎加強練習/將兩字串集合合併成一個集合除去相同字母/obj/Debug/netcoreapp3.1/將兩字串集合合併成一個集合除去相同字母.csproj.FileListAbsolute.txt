@@ -1,0 +1,13 @@
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\將兩字串集合合併成一個集合除去相同字母\bin\Debug\netcoreapp3.1\將兩字串集合合併成一個集合除去相同字母.exe
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\將兩字串集合合併成一個集合除去相同字母\bin\Debug\netcoreapp3.1\將兩字串集合合併成一個集合除去相同字母.deps.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\將兩字串集合合併成一個集合除去相同字母\bin\Debug\netcoreapp3.1\將兩字串集合合併成一個集合除去相同字母.runtimeconfig.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\將兩字串集合合併成一個集合除去相同字母\bin\Debug\netcoreapp3.1\將兩字串集合合併成一個集合除去相同字母.runtimeconfig.dev.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\將兩字串集合合併成一個集合除去相同字母\bin\Debug\netcoreapp3.1\將兩字串集合合併成一個集合除去相同字母.dll
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\將兩字串集合合併成一個集合除去相同字母\bin\Debug\netcoreapp3.1\將兩字串集合合併成一個集合除去相同字母.pdb
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\將兩字串集合合併成一個集合除去相同字母\obj\Debug\netcoreapp3.1\將兩字串集合合併成一個集合除去相同字母.csprojAssemblyReference.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\將兩字串集合合併成一個集合除去相同字母\obj\Debug\netcoreapp3.1\將兩字串集合合併成一個集合除去相同字母.AssemblyInfoInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\將兩字串集合合併成一個集合除去相同字母\obj\Debug\netcoreapp3.1\將兩字串集合合併成一個集合除去相同字母.AssemblyInfo.cs
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\將兩字串集合合併成一個集合除去相同字母\obj\Debug\netcoreapp3.1\將兩字串集合合併成一個集合除去相同字母.csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\將兩字串集合合併成一個集合除去相同字母\obj\Debug\netcoreapp3.1\將兩字串集合合併成一個集合除去相同字母.dll
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\將兩字串集合合併成一個集合除去相同字母\obj\Debug\netcoreapp3.1\將兩字串集合合併成一個集合除去相同字母.pdb
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\將兩字串集合合併成一個集合除去相同字母\obj\Debug\netcoreapp3.1\將兩字串集合合併成一個集合除去相同字母.genruntimeconfig.cache

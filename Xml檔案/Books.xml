@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Books>
+  <Book>
+    <Name>西遊記</Name>
+    <Price>10</Price>
+    <Des>猴子和和尚</Des>
+  </Book>
+  <Book>
+    <Name>紅樓夢</Name>
+    <Price>100</Price>
+    <Des>賈寶玉</Des>
+  </Book>
+</Books>

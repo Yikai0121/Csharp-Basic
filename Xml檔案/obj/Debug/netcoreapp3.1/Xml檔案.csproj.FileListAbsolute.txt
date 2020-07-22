@@ -1,0 +1,13 @@
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\Xml檔案\bin\Debug\netcoreapp3.1\Xml檔案.exe
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\Xml檔案\bin\Debug\netcoreapp3.1\Xml檔案.deps.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\Xml檔案\bin\Debug\netcoreapp3.1\Xml檔案.runtimeconfig.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\Xml檔案\bin\Debug\netcoreapp3.1\Xml檔案.runtimeconfig.dev.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\Xml檔案\bin\Debug\netcoreapp3.1\Xml檔案.dll
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\Xml檔案\bin\Debug\netcoreapp3.1\Xml檔案.pdb
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\Xml檔案\obj\Debug\netcoreapp3.1\Xml檔案.csprojAssemblyReference.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\Xml檔案\obj\Debug\netcoreapp3.1\Xml檔案.AssemblyInfoInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\Xml檔案\obj\Debug\netcoreapp3.1\Xml檔案.AssemblyInfo.cs
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\Xml檔案\obj\Debug\netcoreapp3.1\Xml檔案.csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\Xml檔案\obj\Debug\netcoreapp3.1\Xml檔案.dll
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\Xml檔案\obj\Debug\netcoreapp3.1\Xml檔案.pdb
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\Xml檔案\obj\Debug\netcoreapp3.1\Xml檔案.genruntimeconfig.cache

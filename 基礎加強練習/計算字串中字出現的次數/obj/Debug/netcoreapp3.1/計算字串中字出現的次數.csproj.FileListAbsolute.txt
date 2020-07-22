@@ -1,0 +1,13 @@
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\計算字串中字出現的次數\bin\Debug\netcoreapp3.1\計算字串中字出現的次數.exe
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\計算字串中字出現的次數\bin\Debug\netcoreapp3.1\計算字串中字出現的次數.deps.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\計算字串中字出現的次數\bin\Debug\netcoreapp3.1\計算字串中字出現的次數.runtimeconfig.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\計算字串中字出現的次數\bin\Debug\netcoreapp3.1\計算字串中字出現的次數.runtimeconfig.dev.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\計算字串中字出現的次數\bin\Debug\netcoreapp3.1\計算字串中字出現的次數.dll
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\計算字串中字出現的次數\bin\Debug\netcoreapp3.1\計算字串中字出現的次數.pdb
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\計算字串中字出現的次數\obj\Debug\netcoreapp3.1\計算字串中字出現的次數.csprojAssemblyReference.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\計算字串中字出現的次數\obj\Debug\netcoreapp3.1\計算字串中字出現的次數.AssemblyInfoInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\計算字串中字出現的次數\obj\Debug\netcoreapp3.1\計算字串中字出現的次數.AssemblyInfo.cs
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\計算字串中字出現的次數\obj\Debug\netcoreapp3.1\計算字串中字出現的次數.csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\計算字串中字出現的次數\obj\Debug\netcoreapp3.1\計算字串中字出現的次數.dll
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\計算字串中字出現的次數\obj\Debug\netcoreapp3.1\計算字串中字出現的次數.pdb
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\計算字串中字出現的次數\obj\Debug\netcoreapp3.1\計算字串中字出現的次數.genruntimeconfig.cache

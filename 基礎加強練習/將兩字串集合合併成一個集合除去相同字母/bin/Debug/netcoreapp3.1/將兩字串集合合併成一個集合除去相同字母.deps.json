@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "將兩字串集合合併成一個集合除去相同字母/1.0.0": {
+        "runtime": {
+          "將兩字串集合合併成一個集合除去相同字母.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "將兩字串集合合併成一個集合除去相同字母/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
