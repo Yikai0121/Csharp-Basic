@@ -1,0 +1,13 @@
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\輸出輸入quit\bin\Debug\netcoreapp3.1\輸出輸入quit.exe
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\輸出輸入quit\bin\Debug\netcoreapp3.1\輸出輸入quit.deps.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\輸出輸入quit\bin\Debug\netcoreapp3.1\輸出輸入quit.runtimeconfig.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\輸出輸入quit\bin\Debug\netcoreapp3.1\輸出輸入quit.runtimeconfig.dev.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\輸出輸入quit\bin\Debug\netcoreapp3.1\輸出輸入quit.dll
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\輸出輸入quit\bin\Debug\netcoreapp3.1\輸出輸入quit.pdb
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\輸出輸入quit\obj\Debug\netcoreapp3.1\輸出輸入quit.csprojAssemblyReference.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\輸出輸入quit\obj\Debug\netcoreapp3.1\輸出輸入quit.AssemblyInfoInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\輸出輸入quit\obj\Debug\netcoreapp3.1\輸出輸入quit.AssemblyInfo.cs
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\輸出輸入quit\obj\Debug\netcoreapp3.1\輸出輸入quit.csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\輸出輸入quit\obj\Debug\netcoreapp3.1\輸出輸入quit.dll
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\輸出輸入quit\obj\Debug\netcoreapp3.1\輸出輸入quit.pdb
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\輸出輸入quit\obj\Debug\netcoreapp3.1\輸出輸入quit.genruntimeconfig.cache

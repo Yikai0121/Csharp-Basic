@@ -29,8 +29,8 @@ namespace StringPracticeFinal
             // }
             // System.Console.WriteLine(str);
 
-            //找出字串中'e'的位置有哪些
-            //string str = "adadesesesdfefesdfesfesdesef";
+            // 找出字串中'e'的位置有哪些
+            // string str = "adadesesesdfefesdfesfesdesef";
             // int index = str.IndexOf('e');
             // System.Console.WriteLine(index);
             // //循環:從上一次出現e的位置+1的位置找下一次e出現的位置

@@ -1,0 +1,13 @@
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\類別擴展重寫\obj\Debug\netcoreapp3.1\類別擴展重寫.csprojAssemblyReference.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\類別擴展重寫\obj\Debug\netcoreapp3.1\類別擴展重寫.AssemblyInfoInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\類別擴展重寫\obj\Debug\netcoreapp3.1\類別擴展重寫.AssemblyInfo.cs
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\類別擴展重寫\obj\Debug\netcoreapp3.1\類別擴展重寫.csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\類別擴展重寫\bin\Debug\netcoreapp3.1\類別擴展重寫.exe
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\類別擴展重寫\bin\Debug\netcoreapp3.1\類別擴展重寫.deps.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\類別擴展重寫\bin\Debug\netcoreapp3.1\類別擴展重寫.runtimeconfig.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\類別擴展重寫\bin\Debug\netcoreapp3.1\類別擴展重寫.runtimeconfig.dev.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\類別擴展重寫\bin\Debug\netcoreapp3.1\類別擴展重寫.dll
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\類別擴展重寫\bin\Debug\netcoreapp3.1\類別擴展重寫.pdb
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\類別擴展重寫\obj\Debug\netcoreapp3.1\類別擴展重寫.dll
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\類別擴展重寫\obj\Debug\netcoreapp3.1\類別擴展重寫.pdb
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\類別擴展重寫\obj\Debug\netcoreapp3.1\類別擴展重寫.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\計算整數數列平均組並顯示小數點後兩位\bin\Debug\netcoreapp3.1\計算整數數列平均組並顯示小數點後兩位.exe
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\計算整數數列平均組並顯示小數點後兩位\bin\Debug\netcoreapp3.1\計算整數數列平均組並顯示小數點後兩位.deps.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\計算整數數列平均組並顯示小數點後兩位\bin\Debug\netcoreapp3.1\計算整數數列平均組並顯示小數點後兩位.runtimeconfig.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\計算整數數列平均組並顯示小數點後兩位\bin\Debug\netcoreapp3.1\計算整數數列平均組並顯示小數點後兩位.runtimeconfig.dev.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\計算整數數列平均組並顯示小數點後兩位\bin\Debug\netcoreapp3.1\計算整數數列平均組並顯示小數點後兩位.dll
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\計算整數數列平均組並顯示小數點後兩位\bin\Debug\netcoreapp3.1\計算整數數列平均組並顯示小數點後兩位.pdb
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\計算整數數列平均組並顯示小數點後兩位\obj\Debug\netcoreapp3.1\計算整數數列平均組並顯示小數點後兩位.csprojAssemblyReference.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\計算整數數列平均組並顯示小數點後兩位\obj\Debug\netcoreapp3.1\計算整數數列平均組並顯示小數點後兩位.AssemblyInfoInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\計算整數數列平均組並顯示小數點後兩位\obj\Debug\netcoreapp3.1\計算整數數列平均組並顯示小數點後兩位.AssemblyInfo.cs
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\計算整數數列平均組並顯示小數點後兩位\obj\Debug\netcoreapp3.1\計算整數數列平均組並顯示小數點後兩位.csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\計算整數數列平均組並顯示小數點後兩位\obj\Debug\netcoreapp3.1\計算整數數列平均組並顯示小數點後兩位.dll
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\計算整數數列平均組並顯示小數點後兩位\obj\Debug\netcoreapp3.1\計算整數數列平均組並顯示小數點後兩位.pdb
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\計算整數數列平均組並顯示小數點後兩位\obj\Debug\netcoreapp3.1\計算整數數列平均組並顯示小數點後兩位.genruntimeconfig.cache

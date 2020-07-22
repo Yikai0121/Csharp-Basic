@@ -1,0 +1,13 @@
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\尋找字串中a出現幾次\bin\Debug\netcoreapp3.1\尋找字串中a出現幾次.exe
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\尋找字串中a出現幾次\bin\Debug\netcoreapp3.1\尋找字串中a出現幾次.deps.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\尋找字串中a出現幾次\bin\Debug\netcoreapp3.1\尋找字串中a出現幾次.runtimeconfig.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\尋找字串中a出現幾次\bin\Debug\netcoreapp3.1\尋找字串中a出現幾次.runtimeconfig.dev.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\尋找字串中a出現幾次\bin\Debug\netcoreapp3.1\尋找字串中a出現幾次.dll
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\尋找字串中a出現幾次\bin\Debug\netcoreapp3.1\尋找字串中a出現幾次.pdb
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\尋找字串中a出現幾次\obj\Debug\netcoreapp3.1\尋找字串中a出現幾次.csprojAssemblyReference.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\尋找字串中a出現幾次\obj\Debug\netcoreapp3.1\尋找字串中a出現幾次.AssemblyInfoInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\尋找字串中a出現幾次\obj\Debug\netcoreapp3.1\尋找字串中a出現幾次.AssemblyInfo.cs
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\尋找字串中a出現幾次\obj\Debug\netcoreapp3.1\尋找字串中a出現幾次.csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\尋找字串中a出現幾次\obj\Debug\netcoreapp3.1\尋找字串中a出現幾次.dll
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\尋找字串中a出現幾次\obj\Debug\netcoreapp3.1\尋找字串中a出現幾次.pdb
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\總複習練習\尋找字串中a出現幾次\obj\Debug\netcoreapp3.1\尋找字串中a出現幾次.genruntimeconfig.cache

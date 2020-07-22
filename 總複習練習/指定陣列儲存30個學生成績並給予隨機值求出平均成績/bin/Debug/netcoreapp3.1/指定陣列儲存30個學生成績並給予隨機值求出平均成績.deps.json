@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "指定陣列儲存30個學生成績並給予隨機值求出平均成績/1.0.0": {
+        "runtime": {
+          "指定陣列儲存30個學生成績並給予隨機值求出平均成績.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "指定陣列儲存30個學生成績並給予隨機值求出平均成績/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
