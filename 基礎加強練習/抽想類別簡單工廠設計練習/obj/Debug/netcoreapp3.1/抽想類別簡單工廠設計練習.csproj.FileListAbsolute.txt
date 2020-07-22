@@ -1,0 +1,13 @@
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\抽想類別簡單工廠設計練習\obj\Debug\netcoreapp3.1\抽想類別簡單工廠設計練習.csprojAssemblyReference.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\抽想類別簡單工廠設計練習\obj\Debug\netcoreapp3.1\抽想類別簡單工廠設計練習.AssemblyInfoInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\抽想類別簡單工廠設計練習\obj\Debug\netcoreapp3.1\抽想類別簡單工廠設計練習.AssemblyInfo.cs
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\抽想類別簡單工廠設計練習\obj\Debug\netcoreapp3.1\抽想類別簡單工廠設計練習.csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\抽想類別簡單工廠設計練習\bin\Debug\netcoreapp3.1\抽想類別簡單工廠設計練習.exe
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\抽想類別簡單工廠設計練習\bin\Debug\netcoreapp3.1\抽想類別簡單工廠設計練習.deps.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\抽想類別簡單工廠設計練習\bin\Debug\netcoreapp3.1\抽想類別簡單工廠設計練習.runtimeconfig.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\抽想類別簡單工廠設計練習\bin\Debug\netcoreapp3.1\抽想類別簡單工廠設計練習.runtimeconfig.dev.json
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\抽想類別簡單工廠設計練習\bin\Debug\netcoreapp3.1\抽想類別簡單工廠設計練習.dll
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\抽想類別簡單工廠設計練習\bin\Debug\netcoreapp3.1\抽想類別簡單工廠設計練習.pdb
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\抽想類別簡單工廠設計練習\obj\Debug\netcoreapp3.1\抽想類別簡單工廠設計練習.dll
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\抽想類別簡單工廠設計練習\obj\Debug\netcoreapp3.1\抽想類別簡單工廠設計練習.pdb
+C:\Users\k2lairrol\Documents\GitHub\Csharp-Basic\基礎加強練習\抽想類別簡單工廠設計練習\obj\Debug\netcoreapp3.1\抽想類別簡單工廠設計練習.genruntimeconfig.cache
