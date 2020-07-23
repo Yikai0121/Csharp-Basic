@@ -1,0 +1,12 @@
+有一個泛型子類叫做Task<TResult>，它允許返回一個值
+
+使用Func<TResult>委託會兼容的Lambda表達式來調用Task.Run可以得到Task<TResult>
+
+隨後可以通過Result屬性來獲得返回結果
+    如果這個task還沒有操作，訪問Result屬性會阻塞該線程直到操作完成
+
+Task<TResult> 可以看作是一種所謂的未來/許諾(future、promise)在裡面包裹一個Result
+在稍後的時候就變的可用
+
+在CTP版本(社群技術預覽版)
+Task<TResult> 實際叫做Future<TResult>

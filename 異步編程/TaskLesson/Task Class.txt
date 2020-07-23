@@ -1,0 +1,33 @@
+Task 可以很好解決Thread問題
+
+是一個相對高級的抽象，它代表一個併發操作
+    該操作可能由Thread支持，或不由它支持
+
+Task是可組合的(可使用Continuation把它們串成鏈)
+    可以使用線程池來減少啟動延遲
+    使用TaskCompletionSource,Task可以利用回調的方式，在等待I/O綁定操作時
+    完全避免線程
+
+Task.Run
+默認使用線程池，也就是後台線程
+    當主線程結束，創建的tasks都會結束
+Task.Run返回一個Task對向，可以使用它來監視其過程
+    在Task.Run沒有調用start，因為該方法創建的是熱任務(Hot Task)創建完準備開始運行
+        可以通過構造函數創建冷任務(cold Task)，但很少這樣用
+可以通過Task的Status屬性來跟蹤執行狀態
+
+Wait:
+調用於Task方法會進行阻塞直到操作完成
+    相當於Thread Join方法
+Wait也可以讓你指定一個超時時間和取消來提前結束等待
+
+Long-running tasks
+默認情況下CLR會在線程池運行Task，非常適合短時間運行compute-bond類工作
+
+針對長時間的任務或阻塞操作，你可以不採用線程池
+
+如果同時運行多個Long-running tasks，性能將會受限，將有比這更好的方法
+    如果任務微IO-bond，TaskCreationOptions.LongRunning和異步函數可以讓你回調continuations代替線程
+    來實現併發
+
+    如果任務是compute-bond,生產者/消費者對列允許你對任務的併發性進行限流，避免其他線程和進程餓死

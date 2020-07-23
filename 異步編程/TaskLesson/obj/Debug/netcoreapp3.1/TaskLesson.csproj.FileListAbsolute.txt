@@ -1,0 +1,13 @@
+C:\Users\k2lairrol\Documents\GitHub\異步編程\TaskLesson\bin\Debug\netcoreapp3.1\TaskLesson.exe
+C:\Users\k2lairrol\Documents\GitHub\異步編程\TaskLesson\bin\Debug\netcoreapp3.1\TaskLesson.deps.json
+C:\Users\k2lairrol\Documents\GitHub\異步編程\TaskLesson\bin\Debug\netcoreapp3.1\TaskLesson.runtimeconfig.json
+C:\Users\k2lairrol\Documents\GitHub\異步編程\TaskLesson\bin\Debug\netcoreapp3.1\TaskLesson.runtimeconfig.dev.json
+C:\Users\k2lairrol\Documents\GitHub\異步編程\TaskLesson\bin\Debug\netcoreapp3.1\TaskLesson.dll
+C:\Users\k2lairrol\Documents\GitHub\異步編程\TaskLesson\bin\Debug\netcoreapp3.1\TaskLesson.pdb
+C:\Users\k2lairrol\Documents\GitHub\異步編程\TaskLesson\obj\Debug\netcoreapp3.1\TaskLesson.csprojAssemblyReference.cache
+C:\Users\k2lairrol\Documents\GitHub\異步編程\TaskLesson\obj\Debug\netcoreapp3.1\TaskLesson.AssemblyInfoInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\異步編程\TaskLesson\obj\Debug\netcoreapp3.1\TaskLesson.AssemblyInfo.cs
+C:\Users\k2lairrol\Documents\GitHub\異步編程\TaskLesson\obj\Debug\netcoreapp3.1\TaskLesson.csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\異步編程\TaskLesson\obj\Debug\netcoreapp3.1\TaskLesson.dll
+C:\Users\k2lairrol\Documents\GitHub\異步編程\TaskLesson\obj\Debug\netcoreapp3.1\TaskLesson.pdb
+C:\Users\k2lairrol\Documents\GitHub\異步編程\TaskLesson\obj\Debug\netcoreapp3.1\TaskLesson.genruntimeconfig.cache

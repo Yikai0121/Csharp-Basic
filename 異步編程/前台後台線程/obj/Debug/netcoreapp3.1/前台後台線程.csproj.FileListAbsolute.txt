@@ -1,0 +1,13 @@
+C:\Users\k2lairrol\Documents\GitHub\異步編程\前台後台線程\bin\Debug\netcoreapp3.1\前台後台線程.exe
+C:\Users\k2lairrol\Documents\GitHub\異步編程\前台後台線程\bin\Debug\netcoreapp3.1\前台後台線程.deps.json
+C:\Users\k2lairrol\Documents\GitHub\異步編程\前台後台線程\bin\Debug\netcoreapp3.1\前台後台線程.runtimeconfig.json
+C:\Users\k2lairrol\Documents\GitHub\異步編程\前台後台線程\bin\Debug\netcoreapp3.1\前台後台線程.runtimeconfig.dev.json
+C:\Users\k2lairrol\Documents\GitHub\異步編程\前台後台線程\bin\Debug\netcoreapp3.1\前台後台線程.dll
+C:\Users\k2lairrol\Documents\GitHub\異步編程\前台後台線程\bin\Debug\netcoreapp3.1\前台後台線程.pdb
+C:\Users\k2lairrol\Documents\GitHub\異步編程\前台後台線程\obj\Debug\netcoreapp3.1\前台後台線程.csprojAssemblyReference.cache
+C:\Users\k2lairrol\Documents\GitHub\異步編程\前台後台線程\obj\Debug\netcoreapp3.1\前台後台線程.AssemblyInfoInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\異步編程\前台後台線程\obj\Debug\netcoreapp3.1\前台後台線程.AssemblyInfo.cs
+C:\Users\k2lairrol\Documents\GitHub\異步編程\前台後台線程\obj\Debug\netcoreapp3.1\前台後台線程.csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\異步編程\前台後台線程\obj\Debug\netcoreapp3.1\前台後台線程.dll
+C:\Users\k2lairrol\Documents\GitHub\異步編程\前台後台線程\obj\Debug\netcoreapp3.1\前台後台線程.pdb
+C:\Users\k2lairrol\Documents\GitHub\異步編程\前台後台線程\obj\Debug\netcoreapp3.1\前台後台線程.genruntimeconfig.cache

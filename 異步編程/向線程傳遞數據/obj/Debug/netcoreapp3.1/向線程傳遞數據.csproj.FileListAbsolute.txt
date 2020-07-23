@@ -1,0 +1,13 @@
+C:\Users\k2lairrol\Documents\GitHub\異步編程\向線程傳遞數據\bin\Debug\netcoreapp3.1\向線程傳遞數據.exe
+C:\Users\k2lairrol\Documents\GitHub\異步編程\向線程傳遞數據\bin\Debug\netcoreapp3.1\向線程傳遞數據.deps.json
+C:\Users\k2lairrol\Documents\GitHub\異步編程\向線程傳遞數據\bin\Debug\netcoreapp3.1\向線程傳遞數據.runtimeconfig.json
+C:\Users\k2lairrol\Documents\GitHub\異步編程\向線程傳遞數據\bin\Debug\netcoreapp3.1\向線程傳遞數據.runtimeconfig.dev.json
+C:\Users\k2lairrol\Documents\GitHub\異步編程\向線程傳遞數據\bin\Debug\netcoreapp3.1\向線程傳遞數據.dll
+C:\Users\k2lairrol\Documents\GitHub\異步編程\向線程傳遞數據\bin\Debug\netcoreapp3.1\向線程傳遞數據.pdb
+C:\Users\k2lairrol\Documents\GitHub\異步編程\向線程傳遞數據\obj\Debug\netcoreapp3.1\向線程傳遞數據.csprojAssemblyReference.cache
+C:\Users\k2lairrol\Documents\GitHub\異步編程\向線程傳遞數據\obj\Debug\netcoreapp3.1\向線程傳遞數據.AssemblyInfoInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\異步編程\向線程傳遞數據\obj\Debug\netcoreapp3.1\向線程傳遞數據.AssemblyInfo.cs
+C:\Users\k2lairrol\Documents\GitHub\異步編程\向線程傳遞數據\obj\Debug\netcoreapp3.1\向線程傳遞數據.csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\異步編程\向線程傳遞數據\obj\Debug\netcoreapp3.1\向線程傳遞數據.dll
+C:\Users\k2lairrol\Documents\GitHub\異步編程\向線程傳遞數據\obj\Debug\netcoreapp3.1\向線程傳遞數據.pdb
+C:\Users\k2lairrol\Documents\GitHub\異步編程\向線程傳遞數據\obj\Debug\netcoreapp3.1\向線程傳遞數據.genruntimeconfig.cache

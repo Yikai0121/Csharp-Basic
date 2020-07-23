@@ -1,0 +1,45 @@
+Join() : 等待線程結束 ，才執行下一個
+調用join():可以設置一個超時，返回true就是線程結束;如果超時返回false
+
+Thread.Sleep() : 會暫停當前程序，並等一段時間
+
+Thread.Sleep(0) : 這樣調用會導致線程立即放棄本身當前的時間，自動將CPU移交給其他線程
+Thread.Yield() : 會做同樣的事情，但他只會把執行交給同一處理器的其他程序
+
+當等待Sleep或Join時候，線程處於阻塞狀態
+
+
+Thread.Sleep(0) 或 Thread.Yield() 有時在高級性能調適的生產代碼很有用，他是一個很好的診斷工具
+，有助於發現線程安全，如果在代碼中任何地方插入Thread.Yield()就破壞程序，那麼程序幾乎
+肯定有bug
+
+ThreadState 常用代碼: Unstarted、Running、WaitSleepJoin、Stopped
+常剝離為四個值運用:
+public static ThreadState SimpleThreadState(ThreadState ts)
+{
+    return ts &(ThreadState.Unstarted|
+                ThreadState.Running|
+                ThreadState.WaitSleepJoin|
+                ThreadState.Stopped);
+}
+ThreadState屬性可用於診斷目的，但不適用於同步，因為線程
+狀態可能會再測試threadState和對該信息進行操作之間發生變化
+
+Blocking: 阻塞狀態
+阻塞條件被滿足才會進行下一個程序
+
+Unblocking:
+1.阻塞條件被解除
+2.操作超時(如果設置超時的話)
+3.通過Thread.Interrupt()進行打斷
+4.通過Thread.Abort()進行中止
+
+I\O-bund vs Compute-bound:
+
+I\O-bound:一個花費大部分時間等待某事發生的操作
+綁定操作通常涉及輸入或輸出，但不是硬性要求，Thread.Sleep()也被視為這種類型
+
+Compute-bound:一個花費大部分時間執行CPU密集型工作
+
+阻塞vs忙等待(Blocking vs Spinning)
+

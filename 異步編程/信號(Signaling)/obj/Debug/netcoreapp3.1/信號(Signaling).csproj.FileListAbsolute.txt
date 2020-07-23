@@ -1,0 +1,13 @@
+C:\Users\k2lairrol\Documents\GitHub\異步編程\信號(Signaling)\bin\Debug\netcoreapp3.1\信號(Signaling).exe
+C:\Users\k2lairrol\Documents\GitHub\異步編程\信號(Signaling)\bin\Debug\netcoreapp3.1\信號(Signaling).deps.json
+C:\Users\k2lairrol\Documents\GitHub\異步編程\信號(Signaling)\bin\Debug\netcoreapp3.1\信號(Signaling).runtimeconfig.json
+C:\Users\k2lairrol\Documents\GitHub\異步編程\信號(Signaling)\bin\Debug\netcoreapp3.1\信號(Signaling).runtimeconfig.dev.json
+C:\Users\k2lairrol\Documents\GitHub\異步編程\信號(Signaling)\bin\Debug\netcoreapp3.1\信號(Signaling).dll
+C:\Users\k2lairrol\Documents\GitHub\異步編程\信號(Signaling)\bin\Debug\netcoreapp3.1\信號(Signaling).pdb
+C:\Users\k2lairrol\Documents\GitHub\異步編程\信號(Signaling)\obj\Debug\netcoreapp3.1\信號(Signaling).csprojAssemblyReference.cache
+C:\Users\k2lairrol\Documents\GitHub\異步編程\信號(Signaling)\obj\Debug\netcoreapp3.1\信號(Signaling).AssemblyInfoInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\異步編程\信號(Signaling)\obj\Debug\netcoreapp3.1\信號(Signaling).AssemblyInfo.cs
+C:\Users\k2lairrol\Documents\GitHub\異步編程\信號(Signaling)\obj\Debug\netcoreapp3.1\信號(Signaling).csproj.CoreCompileInputs.cache
+C:\Users\k2lairrol\Documents\GitHub\異步編程\信號(Signaling)\obj\Debug\netcoreapp3.1\信號(Signaling).dll
+C:\Users\k2lairrol\Documents\GitHub\異步編程\信號(Signaling)\obj\Debug\netcoreapp3.1\信號(Signaling).pdb
+C:\Users\k2lairrol\Documents\GitHub\異步編程\信號(Signaling)\obj\Debug\netcoreapp3.1\信號(Signaling).genruntimeconfig.cache

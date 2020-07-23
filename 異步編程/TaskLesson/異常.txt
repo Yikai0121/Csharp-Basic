@@ -1,0 +1,8 @@
+Task可以正常拋出異常
+
+
+無須重新拋出異常:通過Task的IsFaulted、IsCanceled屬性也可以檢測出是否發生故障:
+
+    如果都返回false = 沒有錯誤
+    IsCanceled = true 說明一個OperationCanceledException為該Task拋出了
+    IsFaulted = true 說明另一個類型異常被拋出，而Exception屬性也剛指明錯誤
