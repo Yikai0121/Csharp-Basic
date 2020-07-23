@@ -1,0 +1,11 @@
+C:\Users\user\Documents\GitHub\Csharp-Basic\XML\讀取XML\bin\Debug\netcoreapp3.1\讀取XML.exe
+C:\Users\user\Documents\GitHub\Csharp-Basic\XML\讀取XML\bin\Debug\netcoreapp3.1\讀取XML.deps.json
+C:\Users\user\Documents\GitHub\Csharp-Basic\XML\讀取XML\bin\Debug\netcoreapp3.1\讀取XML.runtimeconfig.json
+C:\Users\user\Documents\GitHub\Csharp-Basic\XML\讀取XML\bin\Debug\netcoreapp3.1\讀取XML.runtimeconfig.dev.json
+C:\Users\user\Documents\GitHub\Csharp-Basic\XML\讀取XML\bin\Debug\netcoreapp3.1\讀取XML.dll
+C:\Users\user\Documents\GitHub\Csharp-Basic\XML\讀取XML\bin\Debug\netcoreapp3.1\讀取XML.pdb
+C:\Users\user\Documents\GitHub\Csharp-Basic\XML\讀取XML\obj\Debug\netcoreapp3.1\讀取XML.csprojAssemblyReference.cache
+C:\Users\user\Documents\GitHub\Csharp-Basic\XML\讀取XML\obj\Debug\netcoreapp3.1\讀取XML.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\Csharp-Basic\XML\讀取XML\obj\Debug\netcoreapp3.1\讀取XML.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\Csharp-Basic\XML\讀取XML\obj\Debug\netcoreapp3.1\讀取XML.dll
+C:\Users\user\Documents\GitHub\Csharp-Basic\XML\讀取XML\obj\Debug\netcoreapp3.1\讀取XML.pdb

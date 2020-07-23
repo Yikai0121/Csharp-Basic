@@ -1,0 +1,11 @@
+C:\Users\user\Documents\GitHub\Csharp-Basic\XML\追加xlm\bin\Debug\netcoreapp3.1\追加xlm.exe
+C:\Users\user\Documents\GitHub\Csharp-Basic\XML\追加xlm\bin\Debug\netcoreapp3.1\追加xlm.deps.json
+C:\Users\user\Documents\GitHub\Csharp-Basic\XML\追加xlm\bin\Debug\netcoreapp3.1\追加xlm.runtimeconfig.json
+C:\Users\user\Documents\GitHub\Csharp-Basic\XML\追加xlm\bin\Debug\netcoreapp3.1\追加xlm.runtimeconfig.dev.json
+C:\Users\user\Documents\GitHub\Csharp-Basic\XML\追加xlm\bin\Debug\netcoreapp3.1\追加xlm.dll
+C:\Users\user\Documents\GitHub\Csharp-Basic\XML\追加xlm\bin\Debug\netcoreapp3.1\追加xlm.pdb
+C:\Users\user\Documents\GitHub\Csharp-Basic\XML\追加xlm\obj\Debug\netcoreapp3.1\追加xlm.csprojAssemblyReference.cache
+C:\Users\user\Documents\GitHub\Csharp-Basic\XML\追加xlm\obj\Debug\netcoreapp3.1\追加xlm.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\Csharp-Basic\XML\追加xlm\obj\Debug\netcoreapp3.1\追加xlm.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\Csharp-Basic\XML\追加xlm\obj\Debug\netcoreapp3.1\追加xlm.dll
+C:\Users\user\Documents\GitHub\Csharp-Basic\XML\追加xlm\obj\Debug\netcoreapp3.1\追加xlm.pdb
